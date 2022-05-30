@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: tuhin18003/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.profile_summary_card_example }}
         with:
           USERNAME: ${{ github.repository_owner }}
