@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tuhin18003/profile-summary-card-example/master/profile-summary-card-output/vue/4-productive-time.svg)
-```
-
-    
